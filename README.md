@@ -1,2 +1,2 @@
 # Skateboarding-Page
-This is a simple page who I made using Bootstrap
+This is a simple page that I made using Bootstrap
